@@ -1,4 +1,4 @@
-# Day2-Lab1-Git-
+# Day2-Lab1-Git
 # CLI Exercise
 
 ## Using the command line to do the following:
